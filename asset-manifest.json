@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-calculator/static/css/main.8159f06c.css",
+    "main.js": "/react-calculator/static/js/main.ab7d0ac7.js",
+    "static/media/reenie-beanie-all-400-normal.woff": "/react-calculator/static/media/reenie-beanie-all-400-normal.477769799d9d627a26a6.woff",
+    "static/media/bungee-all-400-normal.woff": "/react-calculator/static/media/bungee-all-400-normal.61ca83d074e495e65ec1.woff",
+    "static/media/reenie-beanie-latin-400-normal.woff2": "/react-calculator/static/media/reenie-beanie-latin-400-normal.ce7d2a10ac8cc3bf1714.woff2",
+    "static/media/bungee-latin-400-normal.woff2": "/react-calculator/static/media/bungee-latin-400-normal.daddcac6fe1a2454c842.woff2",
+    "static/media/bungee-latin-ext-400-normal.woff2": "/react-calculator/static/media/bungee-latin-ext-400-normal.7ec24d3fb778d0a7f8ac.woff2",
+    "static/media/bungee-vietnamese-400-normal.woff2": "/react-calculator/static/media/bungee-vietnamese-400-normal.35a2efc8b99be71aebc4.woff2",
+    "index.html": "/react-calculator/index.html",
+    "main.8159f06c.css.map": "/react-calculator/static/css/main.8159f06c.css.map",
+    "main.ab7d0ac7.js.map": "/react-calculator/static/js/main.ab7d0ac7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8159f06c.css",
+    "static/js/main.ab7d0ac7.js"
+  ]
+}
