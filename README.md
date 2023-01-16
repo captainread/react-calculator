@@ -16,8 +16,6 @@ Simple mathematical JS functions are triggered to calculate results.
 
 While originally styled using basic CSS, the project has since been updated to utilise [ChakraUI](https://chakra-ui.com/).
 
----
-
 ## Local instructions
 
 ### Requirements
