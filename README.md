@@ -1,21 +1,18 @@
 # Calculator
 
-### Hosted site
-
-To view the live version, please visit:
-
-> https://dicefactor.netlify.app/
-
 ## Project summary
 
-This small calculator app was built using [React](https://reactjs.org/) and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Click here for live app](https://captainread.github.io/react-calculator/).
 
-The calculator functionality relies on a held state to track
+This calculator was built using [React](https://reactjs.org/) and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+The calculator functionality relies on a held state to track:
+
 - what number(s) the user has inputted;
 - what calculation they would like to perform;
-- what the current result to be displayed is. 
+- what the current result to be displayed is.
 
-Simple mathematical functions are triggered to calculate results.
+Simple mathematical JS functions are triggered to calculate results.
 
 While originally styled using basic CSS, the project has since been updated to utilise [ChakraUI](https://chakra-ui.com/).
 
